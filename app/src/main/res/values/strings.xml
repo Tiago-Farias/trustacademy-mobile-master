@@ -1,0 +1,38 @@
+<resources>
+    <string name="account_name">Email</string>
+    <string name="password">Password</string>
+    <string name="password_hint" translatable="false">************</string>
+    <string name="forgot_your_login_info">Forgot password?</string>
+    <string name="sign_in">Login</string>
+    <string name="remember_my_password">Remember my password</string>
+    <string name="username">Username</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="create_account">Create account</string>
+    <string name="email_hint">test@example.com</string>
+    <string name="reset_senha">Reset password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="invalid_password">Invalid password!</string>
+    <string name="prompt_password">Password</string>
+    <string name="register_account">Register account</string>
+    <string name="welcome">Welcome to</string>
+    <string name="title_activity_login">Login</string>
+    <string name="app_description">"Blockchain-based digital platform designed to ensure the entire process of collecting, generating and verifying academic documents"</string>
+    <string name="app_name" translatable="false">Trust Academy</string>
+    <string name="login_failed">Login failed</string>
+    <string name="invalid_username">Invalid username</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="document_last_update">Last update:</string>
+    <string name="close">Close</string>
+    <string name="documents">Documents</string>
+    <string name="account">Account</string>
+    <string name="not_implemented">Not implemented yet!</string>
+    <string name="at_time">at</string>
+    <string name="last_update">Last update:</string>
+    <string name="version">version</string>
+    <string name="versions">versions</string>
+    <string name="Details">Details</string>
+    <string name="Versions">Versions</string>
+</resources>
